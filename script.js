@@ -1,1 +1,1 @@
-%2F%2Fscript
+//script
